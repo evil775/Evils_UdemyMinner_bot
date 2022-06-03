@@ -1,6 +1,6 @@
 # UdemyBot - A Simple Udemy Free Courses Scrapper
 
-# Copyright (C) 2021-Present Gautam Kumar <https://github.com/gautamajay52>
+# Copyright (C) 2021-Present EvilerX https://github.com/evil775/Evils_UdemyMinner_bot/
 
 
 import json
