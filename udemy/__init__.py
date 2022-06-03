@@ -9,9 +9,9 @@ api_id = os.environ.get('API_ID')
 api_hash = os.environ.get('API_HASH')
 
 START = """
-Hey, I'm an UdemyBot. ⚡
+Hey, I'm an UdemyMinner. ⚡
 
-I can send you free Udemy Courses Links.
+I can send you paid Udemy Courses Links for Free.
 
 Commands:
     /discudemy page
