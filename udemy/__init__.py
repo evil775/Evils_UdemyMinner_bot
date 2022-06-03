@@ -22,6 +22,7 @@ Commands:
     /idcoupons page
 
 page - which page you wanted to scrap and send links. Default is 1
+Repo - evil775/Evils_UdemyMinner_bot
 """
 
 CMD = "(discudemy|coursevania|udemy_freebies|tutorialbar|real_discount|idcoupons)"
