@@ -4,7 +4,8 @@
 ### ⚡ Live Bot :http://t.me/evilscollect_bot
 
 
-## ⚡ Vars: 
+Use live bot or create your own by repo and the given steps .
+## ⚡ Reqired: 
 
 * `API_HASH`: Get one from [HERE](https://my.telegram.org/apps)
 * `API_ID`: Get one from [HERE](https://my.telegram.org/apps)
@@ -17,6 +18,7 @@
 2) Fill all the details.
 3) Turn on worker.
 4) Enjoy 
+5) follow the github page for more . 
 
 ## ⚡ ToDo: 
 
@@ -24,3 +26,5 @@
 
 # ⚡ Credits: 
 * [GautamKumar(me)](https://github.com/gautamajay52) for [Nothing](https://github.com/gautamajay52/UdemyBot)😬😁
+
+Share for support .
