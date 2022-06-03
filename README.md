@@ -20,4 +20,4 @@
 - [ ] Automatic Enroller.
 
 # ⚡ Credits: 🌎
-* [GautamKumar(me)](https://github.com/gautamajay52) for [Nothing](https://github.com/gautamajay52/UdemyBot)😬😁
+* [EvilerX(me)](https://github.com/evil775) 
