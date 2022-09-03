@@ -1,6 +1,6 @@
 
 
-# Copyright (C) 2021-Present EvilerX https://github.com/evil775/Evils_UdemyMinner_bot/
+#  EvilerX https://github.com/evil775/Evils_UdemyMinner_bot/
 
 from telethon import events
 
