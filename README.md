@@ -5,7 +5,7 @@
 
 
 
-Use live bot or create your own by repo and the given steps .
+
 ## ⚡ Reqired: 
 
 * `API_HASH`: Get one from [HERE](https://my.telegram.org/apps)
@@ -26,6 +26,6 @@ Use live bot or create your own by repo and the given steps .
 - [ ] Automatic Enroller.
 
 # ⚡ Credits: 
-* [GautamKumar(me)](https://github.com/gautamajay52) for [Nothing](https://github.com/gautamajay52/UdemyBot)😬😁
+
 
 Share for support .
